@@ -129,4 +129,23 @@ friends:
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: |
+  <div>
+    Web Developer，高雄人
+    <br>
+    <br>
+    <h1>技能</h1>
+    <ul>
+      <li>Ruby</li>
+      <li>Ruby on Rails</li>
+      <li>Git</li>
+      <li>JavaScript</li>
+    </ul>
+    <br>
+    <h1>學歷</h1>
+    <ul>
+      <li>中山大學 資管所 2017 - </li>
+      <li>逢甲大學 自控系 2013 - 2017</li>
+      <li>高雄中學 2010 - 2013</li>
+    </ul>
+  </div>
