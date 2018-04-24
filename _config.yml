@@ -1,7 +1,9 @@
 # Header
 menu:
-  首頁: '/'
-  程式: '/tags/程式/'
+  技術文章: '/tags/技術文章/'
+  Ruby: '/tags/ruby/'
+  免費資源: '/tags/free/'
+  雜記: 'tags/雜記'
 
 
 # SubNav
