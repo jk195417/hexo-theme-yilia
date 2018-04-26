@@ -1,9 +1,8 @@
 # Header
 menu:
-  技術文章: '/tags/技術文章/'
-  Ruby: '/tags/ruby/'
-  免費資源: '/tags/free/'
-  雜記: 'tags/雜記'
+  技術文章: '/categories/技術文章/'
+  其他: '/categories/其他/'
+  文章一覽: '/archives/'
 
 
 # SubNav
@@ -119,7 +118,7 @@ slider:
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: 所有文章
+  innerArchive: 搜尋文章
   aboutme: 關於我
   friends: false
 
