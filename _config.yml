@@ -68,7 +68,7 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: 'UA-117837845-1'
-favicon: '/blog/favicon.png'
+favicon: '/favicon.png'
 
 #你的头像url
 avatar: 'https://i.imgur.com/Ulq9USl.jpg'
