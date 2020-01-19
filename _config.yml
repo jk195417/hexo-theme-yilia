@@ -1,17 +1,15 @@
 # Header
 menu:
-  技術文章: '/categories/技術文章/'
-  其他: '/categories/其他/'
-  文章一覽: '/archives/'
-
+  技術文章: /categories/技術文章/
+  文章一覽: /archives/
 
 # SubNav
 subnav:
-  facebook: 'https://www.facebook.com/yang.hong.xin'
-  linkedin: 'https://www.linkedin.com/in/hongxin-yang/'
-  github: 'https://github.com/jk195417'
-  mail: 'mailto:jk195417@gmail.com'
-  rss: '/atom.xml'
+  facebook: https://www.facebook.com/yang.hong.xin
+  linkedin: https://www.linkedin.com/in/hongxin-yang/
+  github: https://github.com/jk195417
+  mail: mailto:jk195417@gmail.com
+  rss: /atom.xml
   # weibo: "#"
   # zhihu: "#"
   # qq: "#"
@@ -24,14 +22,13 @@ subnav:
   # google: "#"
   # twitter: "#"
 
-
-rss: '/atom.xml'
+rss: /atom.xml
 
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-url: 'https://blog.yang-hong-xin.com/'
-root: '/'
+url: https://blog.yang-hong-xin.com/
+root: /
 
 # Content
 
@@ -40,9 +37,9 @@ excerpt_link: 展開以顯示全文
 # 文章卡片右下角常驻链接，不需要请设置为false
 show_all_link: 顯示全文
 # 数学公式
-mathjax: false
+mathjax: true
 # 是否在新窗口打开链接
-open_in_new: false
+open_in_new: true
 
 # 打赏
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
@@ -66,12 +63,12 @@ toc_empty_wording: 沒有目錄
 top: true
 
 # Miscellaneous
-baidu_analytics: ''
-google_analytics: 'UA-117837845-1'
-favicon: '/favicon.png'
+baidu_analytics:
+google_analytics: UA-117837845-1
+favicon: images/favicon.png
 
 #你的头像url
-avatar: 'https://i.imgur.com/Ulq9USl.jpg'
+avatar: https://i.imgur.com/Ulq9USl.jpg
 
 #是否开启分享
 share_jia: true
@@ -91,21 +88,21 @@ changyan_appid: false
 changyan_conf: false
 
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
-disqus: hongxins-blog
+disqus: yang-hong-xin
 
 #5、Gitment
-gitment_owner: false      #你的 GitHub ID
-gitment_repo: ''          #存储评论的 repo
+gitment_owner: false #你的 GitHub ID
+gitment_repo: #存储评论的 repo
 gitment_oauth:
-  client_id: ''           #client ID
-  client_secret: ''       #client secret
+  client_id: #client ID
+  client_secret: #client secret
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
   # 头像上面的背景颜色
-  header: '#337CA0'
+  header: "#337CA0"
   # 右滑板块背景
-  slider: 'linear-gradient(200deg,#136d9a,#a0cfe4,#136d9a,#e8c37e)'
+  slider: linear-gradient(200deg,#136d9a,#a0cfe4,#136d9a,#e8c37e)
 
 # slider的设置
 slider:
